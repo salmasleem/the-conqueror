@@ -94,8 +94,8 @@ the game consists of 3 views beside the start view
 
 3) <strong> Battle View </strong> 
 
-
-   <img src = "acl-fogration-fe/public/images/Admin%20add%20instructor.JPG"> 
+<img src = "assets/img/views/battleView.jpeg">
+   
    
    responsible for battles between army of the player and opponent cities where player could manage the battle manually or choose to auto resolve it.
  
